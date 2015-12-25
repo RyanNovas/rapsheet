@@ -13,10 +13,10 @@ We decided to venture into the world of data-mashing and data visualizations wit
 Fork the Repo, submit a PR, hit one of us up on Twitter - the main objective of this project was to build something fun and to get people up during their afternoon lull. 
 
 
-## Author
+## Authors
 
-[Ryan Ponte](http://web0715.students.flatironschool.com/students/ryan_ponte.html)<br>
 [Ryan Novas](http://web0715.students.flatironschool.com/students/ryan_novas.html)<br>
+[Ryan Ponte](http://web0715.students.flatironschool.com/students/ryan_ponte.html)<br>
 [Matthew Krey](http://web0715.students.flatironschool.com/students/matt_krey.html)<br>
 
 ## License
