@@ -4,21 +4,9 @@
 
 RapSheet provides users with a visual history of crime, the impact of crime-related legislation and various questions about the criminal justice system in America. 
 
-## Screenshots
-
-COMING SOON TO A RAPSHEET NEAR YOU 
-
 ## Background
 
 We decided to venture into the world of data-mashing and data visualizations with the D3 JavaScript library. 
-
-## Features
-
-*JUST BIZZNESS*
-
-## Usage
-
-*PRESIDENT BIZZNESS*
 
 ## Development/Contribution
 
@@ -26,8 +14,6 @@ Fork the Repo, submit a PR, hit one of us up on Twitter - the main objective of 
 
 
 ## Author
-
-Programmer's of The Bizz <br>
 
 [Ryan Ponte](http://web0715.students.flatironschool.com/students/ryan_ponte.html)<br>
 [Ryan Novas](http://web0715.students.flatironschool.com/students/ryan_novas.html)<br>
